@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"//ahp/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+
 # 层次分析法AHP
 ## 一、简要介绍
 用于解决评价类问题。
@@ -110,3 +111,6 @@ $$\omega_{i}=\frac{1}{n}\sum\limits_{j=1}^{n}\frac{a_{ij}}{\sum\limits_{k=1}^{n}
 - 你要购置-台个人电脑,考虑功能、价格等的因素，如何作出决策.
 - 为大学毕业的青年建立一个选择志愿的层次结构模型.
 - 你的家乡准备集资兴办一座小型饲养场，是养猪，还是养鸡、养鸭、养兔⋯⋯
+
+网页链接
+https://62ef7ac324020000097b6e20--ning-garden.netlify.app/
