@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"///ahp/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
 # 层次分析法AHP
 ## 一、简要介绍
 用于解决评价类问题。
